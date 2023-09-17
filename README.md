@@ -2,6 +2,7 @@
 
 - Third-Party Packages
   - nodemon
+  - npm install -g nodemon --save
 - SQLite Methods
   - get()
   - run()
